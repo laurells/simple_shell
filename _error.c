@@ -10,7 +10,7 @@
 
 void _error(input_t *inputs, char *message)
 {
-	char *count
+	char *count;
 
 	_printer(inputs->argv[0]);
 	_printer(": ");
